@@ -1,0 +1,12 @@
+[user]
+    name = Ria Chu
+    email = chuyue10@gmail.com
+
+[url "https://github.com/"]
+    insteadOf = gh:
+
+[core]
+    editor = vim
+
+[github]
+    user = chuyue10
